@@ -1,0 +1,5 @@
+/ChaosScreensaver/bin
+*.exe
+Debug
+ChaosGameScreensaver/bin/*
+ChaosGameScreensaver/obj/*
